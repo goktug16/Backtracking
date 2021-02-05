@@ -27,57 +27,47 @@ Some sample outputs:
 
 ![](images/2.png)
 
-2- 
 
 
 ![](images/1.png)
 
-3- 
-
+2- 
 
 ![](images/3.png)
 
-4- 
+3-
 
 
 ![](images/4.png)
 
-5- 
+4- 
 
 
 ![](images/5.png)
 
-6- 
 
 
 ![](images/6.png)
 
-7- 
+5-
 
 
 ![](images/7.png)
 
-8- 
+
 
 
 ![](images/8.png)
 
-9- 
 
 
 ![](images/9.png)
 
-1- 
 
 
-![](images/1.png)
-
-10- 
-
+6-
 
 ![](images/10.png)
-
-11- 
 
 
 ![](images/11.png)
